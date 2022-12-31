@@ -1054,9 +1054,7 @@ might show what's possible with a few lines of code already. Finally, just take 
          checkout without prompting you for it and also allows to pre-specify a bunch of settings (like the
          plugin's identifier) directly from the command line. Take a look at ``octoprint dev plugin:new --help``
          for the usage details.
-.. [#f2] Refer to the `LESS documentation <http://lesscss.org/#using-less>`_ on how to do that. If you are developing
-         your plugin under Windows you might also want to give `WinLESS <http://winless.org/>`_ a look which will run
-         in the background and keep your CSS files up to date with your various project's LESS files automatically.
+.. [#f2] Refer to the `LESS documentation <http://lesscss.org/#using-less>`_ on how to do that.
 .. [#f3] Please always consult the Jinja documentation at `jinja.octoprint.org <http://jinja.octoprint.org>`_ instead of
          the current stable documentation available at Jinja's project page. The reason for that is that for backwards
          compatibility reasons OctoPrint currently sadly has to rely on an older version of Jinja. The documentation
